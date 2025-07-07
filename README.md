@@ -13,7 +13,7 @@ I'm a Computer Science student at the University of Debrecen in Hungary with a p
 
 Here are some of the cool projects I've worked on:
 
-- **[Weather App](https://github.com/agonkoca/weather-app)**  
+- **[Weather App]([https://github.com/agonkoca/weather-app](https://github.com/agonkoca/WeatherApp))**  
   A weather app that fetches real-time data and provides forecasts. Built with Java, Android Studio, and WeatherAPI.
 
 - **[Bishop Swap Puzzle](https://github.com/agonkoca/bishop-swap-puzzle)**  
